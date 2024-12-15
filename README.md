@@ -717,7 +717,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 ### Containers
 
 - [Atoms](https://github.com/AtomsDevs/Atoms) - Linux Chroot environments manager `#python` `#gtk4` `#libadwaita`.
-- [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software on Linux `#python` `#gtk4` `#libadwaita`.
+- [Bottles](https://usebottles.com) - GUI and environment manager to run Windows applications and games on Linux, built on top of the Wine compatibility layer `#python` `#gtk4` `#libadwaita`.
 - [Boxes](https://apps.gnome.org/Boxes/) - Application to access virtual machines `#vala` `#gtk3`.
 - [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical interface for Distrobox `#rust` `#gtk4` `#libadwaita`.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager `#rust` `#gtk4` `#libadwaita`.
